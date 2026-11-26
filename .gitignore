@@ -1,0 +1,5 @@
+venv/
+resume-screening-api/venv/
+__pycache__/
+*.pyc
+.env
